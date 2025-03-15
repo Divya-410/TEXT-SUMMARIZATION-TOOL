@@ -4,8 +4,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize 
 
 # Input text - to summarize 
-text = """ space exploration has revolutionized our understanding of the universe. NASA's missions have revealed countless discoveries about our solar system, from the rings of Saturn to the ice caps of Mars. The International Space Station serves as humanity's orbital laboratory, conducting groundbreaking research in microgravity. Recent developments in private space companies have made space travel more accessible, promising a future where commercial space flights might become commonplace. """
-
+text = ""Renewable energy sources are transforming the global power landscape. Solar panels and wind turbines are becoming increasingly efficient and cost-effective solutions for electricity generation. Many countries are investing heavily in renewable infrastructure to reduce carbon emissions and combat climate change. Technological advances in energy storage systems, particularly batteries, are making renewable energy more reliable and accessible than ever before ""
 # Tokenizing the text 
 stopWords = set(stopwords.words("english")) 
 words = word_tokenize(text) 
