@@ -16,7 +16,3 @@ DESCRIPTION : Text summarization is an essential task in Natural Language Proces
 
 OUTPUT :
 
-Image](https://github.com/user-attachments/assets/df9541c8-fe28-48f5-b719-66d0e59ce7a4)
-
-![Image](https://github.com/user-attachments/assets/783cbbc7-ff7d-4324-a73d-df4f13421cb0)
-![Image](https://github.com/user-attachments/assets/3a370248-8cc5-4673-b3d0-faab62c16466)
